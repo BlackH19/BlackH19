@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 ## 🚀 About Me
 
 - 🌐 **Website**: [My Portfolio](https://www.myportfolio.com)
-- 💼 **LinkedIn**: [BlackH19](https://www.linkedin.com/in/blackh19)
+- 💼 **LinkedIn**: [BlackH19](www.linkedin.com/in/ike-ameble)
 - 🐦 **Twitter**: [@BlackH19](https://twitter.com/BlackH19)
-- 📫 **Email**: [blackh19@example.com](mailto:hole3822@gmail.com)
+- 📫 **Email**: [blackh19@example.com](efoeikekeithameble@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
