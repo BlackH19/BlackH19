@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Python, JavaScript, TypeScript, Java, C++
-- **Frameworks**: React, Angular, Django, Flask, Spring Boot
-- **Tools**: Git, Docker, Kubernetes, Jenkins, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Languages**: Python, HTML, CSS, JavaScript, Java, C++
+- **Frameworks**: React, Django, Flask, Spring Boot
+- **Tools**: Git, intellij, VS Code
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## 🌱 What I'm Currently Learning
 
